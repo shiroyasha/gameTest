@@ -6,7 +6,7 @@ body {
 
 #area {
 	border: 5px solid #444;
-	background: white;
+	background: #ccc;
 	margin: 100px auto;
 	display: block;
 }

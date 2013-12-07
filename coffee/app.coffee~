@@ -1,9 +1,0 @@
-
-area = $('#area')[0]
-c    = area.getContext '2d'
-
-
-c.drawRect( 50, 50, 400, 400 )
-
-
-
