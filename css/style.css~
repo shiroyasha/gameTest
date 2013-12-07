@@ -1,0 +1,12 @@
+
+body {
+	margin: 0;
+	background-color: #cfc;
+}
+
+#area {
+	border: 5px solid #444;
+	background: white;
+	margin: 100px auto;
+	width: 800px;
+}
